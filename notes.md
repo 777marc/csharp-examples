@@ -5,6 +5,9 @@ propg: Read only property
 sim: static int main method
 svm: static void main method
 
+* C# misc
+https://www.tutorialspoint.com/csharp/csharp_anonymous_methods.htm
+
 * SOLID
 Single responsibility
 Open/Closed: open for extension closed for change
