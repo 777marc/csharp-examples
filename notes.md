@@ -7,17 +7,24 @@ svm: static void main method
 
 * C# misc
 https://www.tutorialspoint.com/csharp/csharp_anonymous_methods.htm
+All objects inherit from the base object class in c# (methods like equals, tostring, etc...)
 
 * SOLID
-Single responsibility
+Single responsibility principal
 Open/Closed: open for extension closed for change
 Liskov substitution principal: base should be swappable with child w/out a change 
 Interface segregation: users shouldn't be forced to use an interface with more than they need
 Dependency injection:
 
+* Misc OOP
+inheritance is-a
+    tight coupling
+composition has-a
+    loose coupling
+
 * 4 pilars of OOP
 abstraction
-inheritance
+inheritance (is-a)  
 	single
 	multi
 	hierarchal
