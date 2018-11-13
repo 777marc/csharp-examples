@@ -8,6 +8,9 @@ svm: static void main method
 * C# misc
 https://www.tutorialspoint.com/csharp/csharp_anonymous_methods.htm
 All objects inherit from the base object class in c# (methods like equals, tostring, etc...)
+Type safety
+Upcasting / Downcasting
+extensibility changes behaving of existing code w/out chaning the code itself
 
 * SOLID
 Single responsibility principal
